@@ -32,3 +32,15 @@
 8. Afegir el contingut al body, entre \<body> i <\/body>
 
 ![](imatgesDocument/Selección_008.png)
+
+9. Crear un commit indicant que s'afegeix l'estructura bàsica del body.
+
+![](imatgesDocument/Selección_009.png)
+
+10. Crear un repositori en GitHub que s’anomeni RemoteDiariVostreNom
+
+![](imatgesDocument/Selección_010.png)
+
+11. Assignar al vostre repostiorio global el remot
+
+![](imatgesDocument/Selección_010.png)
